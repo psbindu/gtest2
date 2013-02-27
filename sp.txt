@@ -1,7 +1,3 @@
 spppppppppppp
-<<<<<<< HEAD
-from vi editor testing
-=======
 
 editted onlineeeeeeeeeeeeeeeeeeeeeee
->>>>>>> 85f481dc688bf892e3befb4cb3b62c55e2f1e34e
